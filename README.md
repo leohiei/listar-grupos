@@ -84,23 +84,4 @@ Este script foi testado em sistemas com a versão 5.0.17 do `bash` e usa comando
 ## Licença
 
 Este script é de uso livre. Sinta-se à vontade para modificar e distribuir.
-
-## Requisitos
-
-Este script foi testado em sistemas com a versão 5.0.17 do `bash` e usa comandos básicos como `cut` e `grep` para processar os dados.
-
-## Como usar
-
-1. **Dê permissão de execução ao script**:
-   ```bash
-   chmod +x listar-grupos.sh
-   ```
-
-2. **Execute o script com a opção desejada**:
-   ```bash
-   ./listar-grupos.sh 1
-   ```
-
-## Licença
-
 Este script é de uso livre. Sinta-se à vontade para modificar e distribuir.
