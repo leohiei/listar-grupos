@@ -1,35 +1,4 @@
 #!/usr/bin/env bash
-#
-# listar-grupos.sh - Exibe grupos do sistema conforme filtros específicos
-#
-# Autor: Leonardo N.D.    
-# Manutenção: Leonardo N.D.
-#
-# ------------------------------------------------------------------------ #
-#  Este programa exibe grupos do sistema conforme filtros definidos, 
-#  permitindo buscar grupos por padrão, como letras iniciais, finais ou 
-#  combinações específicas. Também exibe uma mensagem de ajuda quando 
-#  solicitada.
-#
-#  Exemplos:
-#      $ ./listar-grupos.sh 1
-#      Neste exemplo, o script irá listar grupos que começam com a letra 'r'.
-#      $ ./listar-grupos.sh -h
-#      Neste exemplo, o script irá exibir a mensagem de ajuda.
-# ------------------------------------------------------------------------ #
-# Histórico:
-#
-#   v1.0 11/11/2024, Leonardo N.D.:
-#       - Início do programa
-#       - Implementação das funcionalidades principais
-#   v1.1 11/11/2024, Leonardo N.D.:
-#       - Adicionada a função de ajuda com as opções do script
-#   v1.2 11/11/2024, Leonardo N.D.:
-#       - Inserção de negrito
-# ------------------------------------------------------------------------ #
-# Testado em:
-#   bash 5.0.17
-# ------------------------------------------------------------------------ #
 
 # ------------------------------- VARIÁVEIS ----------------------------------------- #
 NEGRITO='\e[1m'
