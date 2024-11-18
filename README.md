@@ -1,7 +1,7 @@
 
 # listar-grupos.sh
 
-O `listar-grupos.sh` é um script em Bash que exibe os grupos do sistema conforme filtros específicos. Ele permite a busca de grupos por letras iniciais, finais ou combinações personalizadas, facilitando a administração do sistema.
+O `listar-grupos.sh` é um shell script que exibe os grupos do sistema conforme filtros específicos. Ele permite a busca de grupos por letras iniciais, finais ou combinações personalizadas, facilitando a administração do sistema.
 
 ## Autor
 - **Leonardo N.D.**
