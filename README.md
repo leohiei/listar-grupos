@@ -23,15 +23,15 @@ Este script permite listar grupos do sistema de forma filtrada, de acordo com di
   ```
 
 ### Opções disponíveis:
-**1** - Grupos que começam com a letra 'r'.
-**2** - Grupos que terminam com a letra 't'.
-**3** - Grupos que começam com 'r' e terminam com 't'.
-**4** - Grupos que terminam com 'e' ou 'd'.
-**5** - Grupos que não terminam com 'e' ou 'd'.
-**6** - Grupos que começam com um dígito e a segunda letra seja 'u' ou 'd'.
-**7** - Grupos com nomes de 2 a 4 dígitos de tamanho.
-**8** - Grupos que começam com 'r' ou 's'.
-**-h ou --help** - Exibe o menu de ajuda.
+1. **1** - Grupos que começam com a letra 'r'.
+2. **2** - Grupos que terminam com a letra 't'.
+3. **3** - Grupos que começam com 'r' e terminam com 't'.
+4. **4** - Grupos que terminam com 'e' ou 'd'.
+5. **5** - Grupos que não terminam com 'e' ou 'd'.
+6. **6** - Grupos que começam com um dígito e a segunda letra seja 'u' ou 'd'.
+7. **7** - Grupos com nomes de 2 a 4 dígitos de tamanho.
+8. **8** - Grupos que começam com 'r' ou 's'.
+9. **-h ou --help** - Exibe o menu de ajuda.
 
 ## Requisitos
 
