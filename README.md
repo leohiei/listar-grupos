@@ -25,32 +25,6 @@ Este script permite listar grupos do sistema de forma filtrada, de acordo com di
 ### Opções disponíveis:
 1. **1** - Grupos que começam com a letra 'r'.
 2. **2** - Grupos que terminam com a letra 't'.
-# listar-grupos.sh
-
-O `listar-grupos.sh` é um script em Bash que exibe os grupos do sistema conforme filtros específicos. Ele permite a busca de grupos por letras iniciais, finais ou combinações personalizadas, facilitando a administração do sistema.
-
-## Autor
-- **Leonardo N.D.**
-
-## Descrição
-
-Este script permite listar grupos do sistema de forma filtrada, de acordo com diferentes opções de padrões de busca. Ele também inclui uma opção de ajuda para mostrar as funcionalidades e como utilizá-lo.
-
-### Exemplos de uso:
-
-- Para listar grupos que começam com a letra 'r':
-  ```bash
-  ./listar-grupos.sh 1
-  ```
-
-- Para exibir o menu de ajuda:
-  ```bash
-  ./listar-grupos.sh -h
-  ```
-
-### Opções disponíveis:
-1. **1** - Grupos que começam com a letra 'r'.
-2. **2** - Grupos que terminam com a letra 't'.
 3. **3** - Grupos que começam com 'r' e terminam com 't'.
 4. **4** - Grupos que terminam com 'e' ou 'd'.
 5. **5** - Grupos que não terminam com 'e' ou 'd'.
@@ -83,5 +57,4 @@ Este script foi testado em sistemas com a versão 5.0.17 do `bash` e usa comando
 
 ## Licença
 
-Este script é de uso livre. Sinta-se à vontade para modificar e distribuir.
 Este script é de uso livre. Sinta-se à vontade para modificar e distribuir.
